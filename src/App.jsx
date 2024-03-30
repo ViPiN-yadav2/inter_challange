@@ -7,25 +7,25 @@ import ThemeBtn from "./components/themebutton";
 function App() {
   let athletes = [
     {
-      playerImage: "../images/1.png",
+      playerImage: "/images/1.png",
       teamName: "Sacramento River Cats",
       totalEvents: "48 Events",
       sports: "Baseball",
     },
     {
-      playerImage: "../images/2.png",
+      playerImage: "/images/2.png",
       teamName: "Las Vegas Aviators",
       totalEvents: "28 Events",
       sports: "Baseball",
     },
     {
-      playerImage: "../images/3.png",
+      playerImage: "/images/3.png",
       teamName: "new jersey devils",
       totalEvents: "48 Events",
       sports: "Baseball",
     },
     {
-      playerImage: "../images/2.png",
+      playerImage: "/images/2.png",
       teamName: "Las Vegas Aviators",
       totalEvents: "28 Events",
       sports: "Baseball",

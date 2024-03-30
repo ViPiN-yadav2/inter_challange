@@ -5,25 +5,25 @@ import "slick-carousel/slick/slick-theme.css";
 const SlideShow = () => {
   let slides = [
     {
-      playerImage: "../images/4.png",
+      playerImage: "/images/4.png",
       gameInfo: "Las Vegas Aviators",
       date: "OCT | SUN | 4:30 PM",
       location: "Las Vegas Ballpark, Las Vegas, Nevada",
     },
     {
-      playerImage: "../images/5.png",
+      playerImage: "/images/5.png",
       gameInfo: "Las Vegas Aviators",
       date: "OCT | SUN | 4:30 PM",
       location: "Sutter Health Park, Sacramento, California",
     },
     {
-      playerImage: "../images/6.png",
+      playerImage: "/images/6.png",
       gameInfo: "Las Vegas Aviators",
       date: "OCT | SUN | 4:30 PM",
       location: "Las Vegas Ballpark, Las Vegas, Nevada",
     },
     {
-      playerImage: "../images/6.png",
+      playerImage: "/images/6.png",
       gameInfo: "Las Vegas Aviators",
       date: "OCT | SUN | 4:30 PM",
       location: "Las Vegas Ballpark, Las Vegas, Nevada",
